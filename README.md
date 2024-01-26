@@ -3,9 +3,9 @@
 I've completed a project focused on Telecommunication Customer Churn using Power BI. The primary objective of this project was to gain a deeper understanding of the underlying factors driving customer churn within our telecommunications company.
 
 ### 📹 The Project Overview
-[![Thumbnail 1](https://github.com/abdullah-khaled0/Telecommunication-Customer-Churn-Analysis-using-Power-BI/blob/f5460685af81a9df34fec2539b07a485d94c7141/dashboard%201.png)](https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7109225992824500224)
-[![Thumbnail 2](link-to-thumbnail-2.jpg)](https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7109225992824500224)
-[![Thumbnail 3](link-to-thumbnail-3.jpg)](https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7109225992824500224)
+[![Thumbnail 1](https://github.com/abdullah-khaled0/Telecommunication-Customer-Churn-Analysis-using-Power-BI/blob/f5460685af81a9df34fec2539b07a485d94c7141/dashboard%201.png)]
+[![Thumbnail 2](https://github.com/abdullah-khaled0/Telecommunication-Customer-Churn-Analysis-using-Power-BI/blob/f5460685af81a9df34fec2539b07a485d94c7141/dashboard%202.png)]
+[![Thumbnail 3](https://github.com/abdullah-khaled0/Telecommunication-Customer-Churn-Analysis-using-Power-BI/blob/f5460685af81a9df34fec2539b07a485d94c7141/dashboard%203.png)]
 
 📊 **Key Insights:**
 
