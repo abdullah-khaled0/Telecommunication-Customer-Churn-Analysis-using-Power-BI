@@ -3,7 +3,7 @@
 I've completed a project focused on Telecommunication Customer Churn using Power BI. The primary objective of this project was to gain a deeper understanding of the underlying factors driving customer churn within our telecommunications company.
 
 ### 📹 Watch the Project Overview Video
-[![Project Overview Video]](https://www.linkedin.com/posts/abdullah-khaled-0608a9236_alhamdulillah-ive-finished-a-project-focused-activity-7109226871753486336-_3g8?utm_source=share&utm_medium=member_desktop)
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7109225992824500224" height="1682" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
 
 📊 **Key Insights:**
 
